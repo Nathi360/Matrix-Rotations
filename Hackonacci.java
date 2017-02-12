@@ -1,6 +1,9 @@
 import java.util.*;
 
 /*
+Note: A matrix rotation can be simulated by two operations --- (1) Transposing the Matrix
+                                                               (2) Reversing the rows of the Matrix
+
 State: the actual building of HMatrix is incomplete.
        the transpose() and reverseRows() seems to have a minor problem. (See output)
  */
